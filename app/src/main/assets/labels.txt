@@ -1,0 +1,7 @@
+goodbye
+hello
+hello_how_are_you
+i_am_fine
+no_match
+sorry
+thank_you

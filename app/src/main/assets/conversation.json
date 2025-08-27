@@ -1,0 +1,39 @@
+[
+  {
+    "intent": "ask_weather",
+    "utterances": [
+      ["what", "is", "the", "weather", "like"],
+      ["how", "is", "the", "weather"],
+      ["tell", "me", "the", "weather"],
+      ["what's", "the", "weather", "like"]
+    ],
+    "responses": [
+      "I can't check real-time weather, but I can suggest dressing for comfort!"
+    ]
+  },
+  {
+    "intent": "greeting_how_are_you",
+    "utterances": [
+      ["how", "are", "you"],
+      ["how", "are", "you", "doing"],
+      ["what's", "up"],
+      ["are", "you", "okay"]
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?"
+    ]
+  },
+  {
+    "intent": "ask_time",
+    "utterances": [
+      ["what", "time", "is", "it"],
+      ["what's", "the", "time"],
+      ["tell", "me", "the", "time"],
+      ["can", "you", "tell", "me", "the", "time"]
+    ],
+    "responses": [
+      "I don't have a clock, but you can check your device's time!",
+      "see for yourself."
+    ]
+  }
+]
